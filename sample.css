@@ -1,0 +1,14 @@
+	
+	table{
+		
+		width:50%;
+	}
+	td {
+  		border:2px solid red;
+		  text-align: center;
+	}
+	p{
+	color:green;
+	font-size:30px;
+	background-color:pink;
+	}
